@@ -1,0 +1,51 @@
+/*
+* Name
+* Due Date
+* project Name and Description
+*/
+
+/* The universal selector */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Body attributes here */
+body {background-color:cornflowerblue;width:90%;margin:auto;}
+
+/* header section */
+header {background-color:white; text-align: center;border-bottom:5px solid navy; padding:20px;}
+
+/* float images right and format */
+.imgright {float:right; height:250px; width:450px;border:5px solid navy; margin:10px}
+
+/* float images left and format */
+.imgleft {float:left; height:350px; width:450px;border:5px solid navy; margin:10px}
+
+/* margin and padding for headings besides header section */
+.mp {margin:5px;padding:5px;}
+
+/* paragraph formatting */
+p {padding-bottom: 150px; padding-top:20px;margin:5px;font-family:Arial,sans-serif,serif;font-size:120%;}
+
+/* images that go across page */
+.imgun {clear: both; height:250px; width:250px;margin:30px; border: 5px solid navy;}
+
+/* headings 1 and 2 format */
+h1 {font-size:200%;font-family:inheritsans-serif,serif;color:navy;}
+
+h2 {font-size:150%;font-family:Arial,sans-serif,serif;}
+
+/* border top for h2 at bottom */
+.bt {border-top:5px solid navy;margin:5px;padding:5px;}
+
+/* links */
+a {font-family:Arial,sans-serif,serif;font-size:120%;color:navy;text-decoration:none;}
+
+a:hover, a:focus {font-family:Arial,sans-serif,serif;font-size:150%;text-decoration:none;background-color:white;}
+
+/* ul set up */
+ul {margin:5px;padding: 20px;}
+
+
